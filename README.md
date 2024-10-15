@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-JavaScript TypeScript React Redux Toolkit React Router Node.js Express.js NestJS MongoDB Postgres   Webpack Git Figma
 <!--
 **insuperposition101/insuperposition101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
