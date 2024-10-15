@@ -4,6 +4,8 @@
 **insuperposition101/insuperposition101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+JavaScript TypeScript React Redux Toolkit React Router Node.js Express.js NestJS MongoDB Postgres   Webpack Git Figma
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
